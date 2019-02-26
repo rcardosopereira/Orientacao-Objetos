@@ -1,0 +1,14 @@
+C:\Users\Rafael\source\repos\TrabalhandoComObjetos\TrabalhandoComObjetos\bin\Debug\TrabalhandoComObjetos.exe.config
+C:\Users\Rafael\source\repos\TrabalhandoComObjetos\TrabalhandoComObjetos\bin\Debug\TrabalhandoComObjetos.exe
+C:\Users\Rafael\source\repos\TrabalhandoComObjetos\TrabalhandoComObjetos\bin\Debug\TrabalhandoComObjetos.pdb
+C:\Users\Rafael\source\repos\TrabalhandoComObjetos\TrabalhandoComObjetos\obj\Debug\TrabalhandoComObjetos.csprojAssemblyReference.cache
+C:\Users\Rafael\source\repos\TrabalhandoComObjetos\TrabalhandoComObjetos\obj\Debug\TrabalhandoComObjetos.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\source\repos\TrabalhandoComObjetos\TrabalhandoComObjetos\obj\Debug\TrabalhandoComObjetos.exe
+C:\Users\Rafael\source\repos\TrabalhandoComObjetos\TrabalhandoComObjetos\obj\Debug\TrabalhandoComObjetos.pdb
+C:\Users\Rafael\source\repos\TrabalhandoComObjetos2\TrabalhandoComObjetos\bin\Debug\TrabalhandoComObjetos.exe.config
+C:\Users\Rafael\source\repos\TrabalhandoComObjetos2\TrabalhandoComObjetos\bin\Debug\TrabalhandoComObjetos.exe
+C:\Users\Rafael\source\repos\TrabalhandoComObjetos2\TrabalhandoComObjetos\bin\Debug\TrabalhandoComObjetos.pdb
+C:\Users\Rafael\source\repos\TrabalhandoComObjetos2\TrabalhandoComObjetos\obj\Debug\TrabalhandoComObjetos.csprojAssemblyReference.cache
+C:\Users\Rafael\source\repos\TrabalhandoComObjetos2\TrabalhandoComObjetos\obj\Debug\TrabalhandoComObjetos.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\source\repos\TrabalhandoComObjetos2\TrabalhandoComObjetos\obj\Debug\TrabalhandoComObjetos.exe
+C:\Users\Rafael\source\repos\TrabalhandoComObjetos2\TrabalhandoComObjetos\obj\Debug\TrabalhandoComObjetos.pdb

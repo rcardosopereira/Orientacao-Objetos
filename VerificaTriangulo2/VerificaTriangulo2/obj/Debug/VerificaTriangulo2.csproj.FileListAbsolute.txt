@@ -1,0 +1,7 @@
+C:\Users\Rafael\source\repos\VerificaTriangulo2\VerificaTriangulo2\bin\Debug\VerificaTriangulo2.exe.config
+C:\Users\Rafael\source\repos\VerificaTriangulo2\VerificaTriangulo2\bin\Debug\VerificaTriangulo2.exe
+C:\Users\Rafael\source\repos\VerificaTriangulo2\VerificaTriangulo2\bin\Debug\VerificaTriangulo2.pdb
+C:\Users\Rafael\source\repos\VerificaTriangulo2\VerificaTriangulo2\obj\Debug\VerificaTriangulo2.csprojAssemblyReference.cache
+C:\Users\Rafael\source\repos\VerificaTriangulo2\VerificaTriangulo2\obj\Debug\VerificaTriangulo2.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\source\repos\VerificaTriangulo2\VerificaTriangulo2\obj\Debug\VerificaTriangulo2.exe
+C:\Users\Rafael\source\repos\VerificaTriangulo2\VerificaTriangulo2\obj\Debug\VerificaTriangulo2.pdb
